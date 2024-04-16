@@ -10,9 +10,7 @@ let presentacion = "";
 /**
  * Pregunta 1: ¿Qué valor tengo que asignar a 'presenetacion' para que me muestre pantalla:
  *   * "Me llamo Mad Max?"
- *
- * 
- * 
+ * "nombre + apellido"
  */
 
 console.log("Pregunta 1:", presentacion);
