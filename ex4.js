@@ -16,10 +16,10 @@
  * 
  */
 
-let numeroGatos = 10;
-let proximaPareja = "estarás soltero porqué mola";
-let proximoPais = "de nuevo en Berlín"
-let trabajoEnsueño = 
+let numeroGatos = 3;
+let proximaPareja = "permanecerás soltero durante un tiempo, porqué mola, pero sí tendrás ";
+let proximoPais = "de nuevo en Berlín, "
+let trabajoEnsueño = "diseñando apps para RV. "
 
-let futuro = "...Puedo verlo claramente, tú estarás" + proximoPais + " gatos";
+let futuro = "...Puedo verlo claramente: tú estarás viviendo " + proximoPais + "trabajando " + trabajoEnsueño + "También veo que " + proximaPareja + numeroGatos + " preciosos gatos negros.";
 console.log(futuro);
