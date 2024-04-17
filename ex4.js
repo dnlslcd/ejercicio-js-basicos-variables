@@ -17,6 +17,9 @@
  */
 
 let numeroGatos = 10;
+let proximaPareja = "estarás soltero porqué mola";
+let proximoPais = "de nuevo en Berlín"
+let trabajoEnsueño = 
 
-let futuro = "tendréis " + numeroGatos + " gatos";
+let futuro = "...Puedo verlo claramente, tú estarás" + proximoPais + " gatos";
 console.log(futuro);
